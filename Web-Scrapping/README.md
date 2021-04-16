@@ -12,6 +12,6 @@ There’s no need to manually add query strings to your URLs, or to form-encode 
 Keep-alive and HTTP connection pooling are 100% automatic.
 
 # Installation
-pip3 install bs4
-pip3 install BeautifulSoup
-pip3 install requests
+- pip3 install bs4
+- pip3 install BeautifulSoup
+- pip3 install requests
