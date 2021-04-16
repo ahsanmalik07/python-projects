@@ -15,3 +15,9 @@ Keep-alive and HTTP connection pooling are 100% automatic.
 - pip3 install bs4
 - pip3 install BeautifulSoup
 - pip3 install requests
+
+
+# Code Snippets
+![image](https://user-images.githubusercontent.com/82457788/115070390-4e7b6400-9f0e-11eb-8bdf-2f018917c7c9.png)
+
+- Basic Idea behind web-scrapping is to make the request to the desired web-pade in HTML and XML form. By Insepecting the desired elements, you can filter them based on class name or id as shown in above snippet
